@@ -1,6 +1,8 @@
 # pruebaDesdeCasa1
 probando a crear repositorios y  configurando el servidor.
 
+# Como ver el gráfico de ramas del repositorio:
+https://ardalis.com/git-graph-visualizes-branches-in-vs-code-for-free/
 
 # Comandos GIT
 <h2> Comandos útiles</h2>
@@ -52,3 +54,40 @@ probando a crear repositorios y  configurando el servidor.
 
  <p> buscar mas informacion de angular sobre: componentes, directivas, pipes(rutas), servicios.<br>
  https://www.youtube.com/watch?v=CitMo3hip6Y&ab_channel=pildorasinformaticas</p>
+
+  <h1>Tecnologías utilizadas en una aplicación web con Spring Boot, Hibernate, TypeScript, Angular y Java
+  </h1>
+  <h2>Front-end (cliente):
+  </h2>
+  <ul>
+    <li>
+      <strong>TypeScript:
+      </strong> es un lenguaje de programación que se utiliza para crear aplicaciones web del lado del cliente. TypeScript es un superset de JavaScript y se compila a JavaScript.
+    </li>
+    <li>
+      <strong>Angular:
+      </strong> es un framework de JavaScript/TypeScript para crear aplicaciones web del lado del cliente. Angular proporciona una serie de características para facilitar la creación de aplicaciones web, como la creación de componentes, inyección de dependencias, manejo de formularios, enrutamiento y animaciones.
+    </li>
+  </ul>
+  <h2>Back-end (servidor):
+  </h2>
+  <ul>
+    <li>
+      <strong>Spring Boot:
+      </strong> es un framework de Java que se utiliza para crear aplicaciones web del lado del servidor. Spring Boot proporciona una serie de características para facilitar el desarrollo de aplicaciones web, como la configuración automática, el inicio rápido y la integración con otros frameworks de Spring.
+    </li>
+    <li>
+      <strong>Hibernate:
+      </strong> es un framework ORM que se utiliza para interactuar con una base de datos relacional en una aplicación web del lado del servidor. Hibernate mapea automáticamente las clases Java a tablas de base de datos y proporciona una API de objetos para realizar operaciones de base de datos.
+    </li>
+    <li>
+      <strong>Java:
+      </strong> es un lenguaje de programación que se utiliza para crear aplicaciones web del lado del servidor. Java es uno de los lenguajes de programación más utilizados para el desarrollo de aplicaciones empresariales.
+    </li>
+    <li>
+      <strong>Base de datos relacional:
+      </strong> una base de datos relacional se utiliza para almacenar y recuperar datos en una aplicación web del lado del servidor. Algunas bases de datos relacionales comunes son MySQL, PostgreSQL y Oracle.
+    </li>
+  </ul>
+  <p>Es importante destacar que en un proyecto típico de desarrollo de software, las tecnologías utilizadas pueden variar dependiendo de los requisitos y necesidades del proyecto. Además, las tecnologías mencionadas anteriormente son solo una pequeña parte de las herramientas y tecnologías disponibles para el desarrollo de aplicaciones web.
+  </p>
